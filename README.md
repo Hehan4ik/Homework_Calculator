@@ -1,2 +1,2 @@
 # Homework_Calculator
-легкий калькулятор на языке python
+игра крестики нолики на языке python
